@@ -1,1 +1,0 @@
-# -Engajamento-Yammer---EDA-com-SQL
